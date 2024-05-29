@@ -1,6 +1,6 @@
 # Case-Based-Reasoning-AI-system
 
-For a given problem, a Case Based Reasoner (CBR) AI system retrieves similar cases (corresponding to prior problems) stored in a database and adapts its solution according to the new circumstances. A Conversation Case Based Reasoner (CCBR) AI system extends CBR when full description of the problem statement is not available. CCBR interacts with the user to generate the problem description. It iteratively queries the user regarding features that are important to case retrieval. It also adapts the retrieved cases and generates explanation for the chosen cases. 
+For a given problem, a Case-Based Reasoning (CBR) AI system retrieves similar cases (corresponding to prior problems) stored in a database and adapts its solution according to the new circumstances. A Conversation Case-Based Reasoning (CCBR) AI system extends CBR when the full description of the problem statement is not available. CCBR interacts with the user to generate the problem description. It iteratively queries the user regarding features that are important to case retrieval. It also adapts the retrieved cases and generates explanation for the chosen cases. 
 
 # Rent prediction CBR system
 
@@ -10,4 +10,4 @@ The CBR system retrives similar cases using different features such as number of
 
 # Travel package prediction CCBR system
 
-travel_package_prediction_CCBR.py implements a Conversational Case-based Reasoning (CCBR) AI system for travel package prediction. The CCBR system interacts with the user by posting queries to select the most similar travel package case stored in the database. It then adapts the retrieved cases before recommending it to the user. It also generates explanation for presenting the recommended package.
+travel_package_prediction_CCBR.py implements a Conversational Case-based Reasoning (CCBR) AI system for travel package prediction. The CCBR system interacts with the user by posting queries to select the most similar travel package case stored in the database. It then adapts the retrieved cases before recommending them to the user. It also generates an explanation for presenting the recommended package.
