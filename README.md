@@ -1,6 +1,6 @@
 # Case-Based-Reasoning-AI-system
 
-For a given problem, a Case-Based Reasoning (CBR) AI system retrieves similar cases (corresponding to prior problems) stored in a database and adapts its solution according to the new circumstances. A Conversation Case-Based Reasoning (CCBR) AI system extends CBR when the full description of the problem statement is not available. CCBR interacts with the user to generate the problem description. It iteratively queries the user regarding features that are important to case retrieval. It also adapts the retrieved cases and generates explanation for the chosen cases. 
+For a given problem, a Case-Based Reasoning (CBR) AI system retrieves similar cases (corresponding to prior problems) stored in a database and adapts its solution according to the new circumstances. A Conversational Case-Based Reasoning (CCBR) AI system extends CBR when the full description of the problem statement is not available. CCBR interacts with the user to generate the problem description. It iteratively queries the user regarding features that are important to case retrieval. It also adapts the retrieved cases and generates explanation for the chosen cases. 
 
 # Rent prediction CBR system
 
